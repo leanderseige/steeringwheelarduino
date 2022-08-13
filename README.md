@@ -24,6 +24,10 @@ There are three source code files in src/
 * minimal-button.ino - I added a button to calibrate the middle position of the wheel (this one is in production)
 * minimal-button-led.ino - for full fancyness one can add two TM1637 compatible displays to see the values at any time
 
+Windows recognizes the wheel just right away while programming
+
+![wheel video 1](https://github.com/leanderseige/steeringwheelarduino/blob/main/media/screenshot.jpg)
+
 # Hardware
 
 ![wheel video 1](https://github.com/leanderseige/steeringwheelarduino/blob/main/media/inside1.jpg)
