@@ -4,6 +4,8 @@ A certain person asked for a PC steering wheel and I decided to not just buy one
 
 Following some excellent sources on the internet it was not too hard to build our own simple steering wheel.
 
+![wheel video 1](https://github.com/leanderseige/steeringwheelarduino/blob/main/media/photo.jpg)
+
 # Inspiration and sources
 
 The main inspiration and sources came from @eglix video on YT https://www.youtube.com/watch?v=OD7MRSHHSPQ
@@ -23,6 +25,8 @@ There are three source code files in src/
 * minimal-button-led.ino - for full fancyness one can add two TM1637 compatible displays to see the values at any time
 
 # Hardware
+
+![wheel video 1](https://github.com/leanderseige/steeringwheelarduino/blob/main/media/inside1.jpg)
 
 ## Steering wheel
 
@@ -47,3 +51,7 @@ In order the pull the wheel back towards the center I invented a simple mechanis
 * Resistor and potentiometer (B100K) were already available.
 
 * Arcade button: https://www.amazon.de/gp/product/B01MRWL6DW
+
+* Optional LED display, TM1637 compatible
+
+![LED displays](https://github.com/leanderseige/steeringwheelarduino/blob/main/media/test_wiring_with_LEDs.jpg)
