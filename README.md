@@ -30,7 +30,7 @@ There are three source code files in src/
 
 ## Steering wheel
 
-We got our wheel from a local car recycling yard. First we got a Volvo wheel including an airbag but people told us that it would be a bad idea to disassemble the airbag ourselves. I thought it would be a good idea to follow this advice and get ourselves one without airbag. We were lucky and found this nice Pulsar Victor sports steering wheel for €30.
+We got our wheel from a local car recycling yard. First we got a Volvo wheel including an airbag but people told us that it would be a bad idea to disassemble the airbag ourselves. I followed this advice and traded that wheel for another one without an airbag. We were lucky and found this nice Pulsar Victor sports steering wheel for €30.
 
 This wheel is mounted using five M5 screws. I designed a separate adapter for it to stick it on the 8mm threaded rod. The file is called wheel_adapter.ino
 
@@ -54,6 +54,6 @@ In order the pull the wheel back towards the center I invented a simple mechanis
 
 * Arcade button: https://www.amazon.de/gp/product/B01MRWL6DW
 
-* Optional LED display, TM1637 compatible
+* Optional LED display, TM1637 compatible: https://www.amazon.de/gp/product/B078S7Q6X7
 
 ![LED displays](https://github.com/leanderseige/steeringwheelarduino/blob/main/media/test_wiring_with_LEDs.jpg)
