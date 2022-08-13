@@ -52,9 +52,9 @@ In order the pull the wheel back towards the center I invented a simple mechanis
 
 ## Electronics
 
-Wiring is very easy. However, I do not guarantee the correctness of anything. Reproduce the circuit or use the software code on your own risk. 
+Wiring is very easy. However, I do not guarantee the correctness of anything. Reproduce the circuit or use the software code on your own risk.
 
-![LED displays](https://github.com/leanderseige/steeringwheelarduino/blob/main/circuit/circuitdiagram.png)
+![LED displays](https://github.com/leanderseige/steeringwheelarduino/blob/main/circuit/circuitdiagram-color.png)
 
 * I used an Arduino Leonardo clone from https://www.amazon.de/gp/product/B0786LJQ8K - In the first place I wired the potentiometer the wrong way and caused a short circuit on the power line. The voltage regulator on the Leonardo started to smell burned and functionality broke down. However, after fixing the wrong wiring the Leonardo went back to normal operation. We decided to not swap the Leonardo for a fresh one. If it survived this harsh baptism it would live for a long time with us, so we hope.
 
