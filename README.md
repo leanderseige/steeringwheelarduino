@@ -6,7 +6,7 @@ Following some excellent sources on the internet it was not too hard to build ou
 
 # Inspiration and sources
 
-The main inspiration and sources came from @eglix's video on YT https://www.youtube.com/watch?v=OD7MRSHHSPQ
+The main inspiration and sources came from @eglix video on YT https://www.youtube.com/watch?v=OD7MRSHHSPQ
 and some of his 3D models of tooth wheels and holders: https://github.com/eglix/Projeler/tree/master/DIY_SIM_Wheel
 
 # Software
