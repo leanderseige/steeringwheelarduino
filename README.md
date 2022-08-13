@@ -17,11 +17,11 @@ As I learned how easy it is to program an Arduino Leonardo I chose to not use so
 
 Just set up Arduino IDE and install the following two libraries:
 * ArduinoJoystickLibrary (I installed it from the latest ZIP, https://github.com/MHeironimus/ArduinoJoystickLibrary/wiki)
-* TM1637 Driver (I installed it from within the IDE's library management, https://github.com/AKJ7/TM1637)
+* optional: TM1637 Driver (I installed it from within the IDE's library management, https://github.com/AKJ7/TM1637)
 
 There are three source code files in src/
 * minimal.ino - the very minimal version, just sets the Z-Axis Rotation
-* minimal-button.ino - I added a button to calibrate the middle position of the wheel
+* minimal-button.ino - I added a button to calibrate the middle position of the wheel (this one is in production)
 * minimal-button-led.ino - for full fancyness one can add two TM1637 compatible displays to see the values at any time
 
 # Hardware
@@ -30,7 +30,7 @@ There are three source code files in src/
 
 ## Steering wheel
 
-We got our wheel from a local car recycling yard. First we got a Volvo wheel including an airbag but people told us that it would be a bad idea to disassemble the airbag ourselves. I followed this advice and traded that wheel for another one without an airbag. We were lucky and found this nice Pulsar Victor sports steering wheel for €30.
+We got our wheel from a local car recycling yard. First we got a Volvo wheel including an airbag but people told us that it would be a bad idea to disassemble the airbag ourselves. I followed this advice and traded that wheel for another one without an airbag. We were lucky and found this nice Pulsar Victor sports steering wheel for just €30.
 
 This wheel is mounted using five M5 screws. I designed a separate adapter for it to stick it on the 8mm threaded rod. The file is called wheel_adapter.ino
 
