@@ -13,7 +13,7 @@ and some of his 3D models of tooth wheels and holders: https://github.com/eglix/
 
 # Software
 
-As I learned how easy it is to program an Arduino Leonardo I chose to not use some of the existing binary tools flying around on the internet but to write my owen software. One needs just a couple of lines to get everything working.
+As I learned how easy it is to program an Arduino Leonardo I chose to not use some of the existing binary tools flying around on the internet but to write my own software. One needs just a couple of lines to get everything working.
 
 Just set up Arduino IDE and install the following two libraries:
 * ArduinoJoystickLibrary (I installed it from the latest ZIP, https://github.com/MHeironimus/ArduinoJoystickLibrary/wiki)
