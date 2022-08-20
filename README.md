@@ -13,7 +13,7 @@ and some of his 3D models of tooth wheels and holders: https://github.com/eglix/
 
 # Software
 
-As I learned how easy it is to program an Arduino Leonardo I chose to not use some of the existing binary tools flying around on the internet but to write my own software. One needs just a couple of lines to get everything working.
+As I saw how easy it is to program an Arduino Leonardo I chose to not use the existing binary tools flying around on the internet but to write my own software. One needs just a couple of lines to get everything working.
 
 Just set up Arduino IDE and install the following two libraries:
 * ArduinoJoystickLibrary (I installed it from the latest ZIP, https://github.com/MHeironimus/ArduinoJoystickLibrary/wiki)
@@ -49,6 +49,8 @@ Threaded 8mm rod, washers and nuts as well as coated plywood came from a local h
 ## Rubber band
 
 In order the pull the wheel back towards the center I invented a simple mechanism using a rubber band. The file for 3D-printing is called Rubber_Band_Mounts.stl I already had rubber band at hand from an earlier project. But here is the source anyway: https://www.amazon.de/gp/product/B089NJJZJL
+
+![Rubber Band Construction](https://github.com/leanderseige/steeringwheelarduino/blob/main/media/rubber_band_construction.jpg)
 
 ## Electronics
 
