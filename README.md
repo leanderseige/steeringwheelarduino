@@ -6,6 +6,13 @@ Following some excellent sources on the internet it was not too hard to build ou
 
 ![wheel video 1](https://github.com/leanderseige/steeringwheelarduino/blob/main/media/photo.jpg)
 
+# How does it peform?
+
+[![Watch the video](images/videostill1.jpeg)](https://youtu.be/FOUyAVAhYBA)
+
+[![Watch the video](images/videostill2.jpeg)](https://youtu.be/FOUyAVAhYBA)
+
+
 # Inspiration and sources
 
 The main inspiration and sources came from @eglix video on YT https://www.youtube.com/watch?v=OD7MRSHHSPQ
