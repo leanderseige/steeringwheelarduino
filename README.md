@@ -8,10 +8,9 @@ Following some excellent sources on the internet it was not too hard to build ou
 
 # How does it peform?
 
-[![Watch the video](images/videostill1.jpg)](https://youtu.be/0jyAVrumM1k)
+Check out this very short video:
 
-[![Watch the video](images/videostill2.jpg)](https://youtu.be/oHTkMrLjo54)
-
+[![Watch the video](media/videostill1.jpg)](https://youtu.be/0jyAVrumM1k)
 
 # Inspiration and sources
 
@@ -33,11 +32,13 @@ There are three source code files in src/
 
 Windows recognizes the wheel while programming just right away.
 
-![wheel video 1](https://github.com/leanderseige/steeringwheelarduino/blob/main/media/screenshot.jpg)
+![Screenshot Windows](https://github.com/leanderseige/steeringwheelarduino/blob/main/media/screenshot.jpg)
 
 # Hardware
 
-![wheel video 1](https://github.com/leanderseige/steeringwheelarduino/blob/main/media/inside1.jpg)
+Click on the photo for a short video!
+
+![Photo Inside](https://youtu.be/oHTkMrLjo54)
 
 ## Steering wheel
 
