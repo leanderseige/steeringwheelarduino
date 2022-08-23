@@ -8,9 +8,9 @@ Following some excellent sources on the internet it was not too hard to build ou
 
 # How does it peform?
 
-[![Watch the video](images/videostill1.jpeg)](https://youtu.be/FOUyAVAhYBA)
+[![Watch the video](images/videostill1.jpg)](https://youtu.be/0jyAVrumM1k)
 
-[![Watch the video](images/videostill2.jpeg)](https://youtu.be/FOUyAVAhYBA)
+[![Watch the video](images/videostill2.jpg)](https://youtu.be/oHTkMrLjo54)
 
 
 # Inspiration and sources
