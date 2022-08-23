@@ -38,7 +38,10 @@ Windows recognizes the wheel while programming just right away.
 
 Click on the photo for a short video!
 
-![Photo Inside](https://youtu.be/oHTkMrLjo54)
+[![Inside Video](media/videostill2.jpg)](https://youtu.be/oHTkMrLjo54)
+
+
+![Photo Inside](https://github.com/leanderseige/steeringwheelarduino/blob/main/media/inside1.jpg)
 
 ## Steering wheel
 
