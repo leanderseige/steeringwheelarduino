@@ -14,8 +14,7 @@ Check out this very short video:
 
 # Inspiration and sources
 
-The main inspiration and sources came from @eglix video on YT https://www.youtube.com/watch?v=OD7MRSHHSPQ
-and some of his 3D models of tooth wheels and holders: https://github.com/eglix/Projeler/tree/master/DIY_SIM_Wheel
+The main inspiration and sources came from @eglix video on YT https://www.youtube.com/watch?v=OD7MRSHHSPQ or https://www.youtube.com/watch?v=OD7MRSHHSPQ and some of his 3D models of tooth wheels and holders: https://github.com/eglix/Projeler/tree/master/DIY_SIM_Wheel
 
 # Software
 
