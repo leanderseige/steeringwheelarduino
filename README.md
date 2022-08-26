@@ -5,7 +5,7 @@ I have been asked for a PC steering wheel and I decided to not just buy one but 
 Following some excellent sources on the internet it was not too hard to build our own simple steering wheel. The most important sources were [@eglix](https://github.com/eglix)s videos on YT https://www.youtube.com/watch?v=OD7MRSHHSPQ and https://youtu.be/cj_OGSozPsY as well as his 3D models of gears and the holder: https://github.com/eglix/Projeler/tree/master/DIY_SIM_Wheel
 
 What we added on our own:
-* another steering wheel (five screws insead of six)
+* another steering wheel (five screws instead of six)
 * our own software
 * rubber band centering
 * a button for quick in-game calibration
