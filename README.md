@@ -1,6 +1,6 @@
 # Steering Wheel Arduino
 
-A certain person asked for a PC steering wheel and I decided to not just buy one but to build our own steering wheel ourselves.
+I have been asked for a PC steering wheel and I decided to not just buy one but to build our own steering wheel ourselves.
 
 Following some excellent sources on the internet it was not too hard to build our own simple steering wheel.
 
