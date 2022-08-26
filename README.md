@@ -49,7 +49,7 @@ The gears and the gear are from [@eglix](https://github.com/eglix)s repo: https:
 
 We got our wheel from a local car recycling yard. First we got a Volvo wheel including an airbag but people told us that it would be a bad idea to disassemble the airbag ourselves. I followed this advice and traded that wheel for another one without an airbag. We were lucky and found this nice Pulsar Victor sports steering wheel for just €30.
 
-This wheel is mounted using five M5 screws. I designed a separate adapter for it to stick it on the 8mm threaded rod. The file is called 5ScrewWheelTo8mm.stl
+This wheel is mounted using five M5 screws. I designed a separate adapter for it to mount it to the 8mm threaded rod. The file is called 5ScrewWheelTo8mm.stl
 
 ## Ball bearings
 
