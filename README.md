@@ -2,7 +2,7 @@
 
 I have been asked for a PC steering wheel and I decided to not just buy one but to build our own steering wheel ourselves.
 
-Following some excellent sources on the internet it was not too hard to build our own simple steering wheel.
+Following some excellent sources on the internet it was not too hard to build our own simple steering wheel. The most important source were [@eglix](https://github.com/eglix)s videos on YT https://www.youtube.com/watch?v=OD7MRSHHSPQ and https://www.youtube.com/watch?v=OD7MRSHHSPQ and his 3D models of gears and the holder: https://github.com/eglix/Projeler/tree/master/DIY_SIM_Wheel
 
 ![wheel video 1](https://github.com/leanderseige/steeringwheelarduino/blob/main/media/photo.jpg)
 
@@ -11,10 +11,6 @@ Following some excellent sources on the internet it was not too hard to build ou
 Check out this very short video:
 
 [![Watch the video](media/videostill1.jpg)](https://youtu.be/0jyAVrumM1k)
-
-# Inspiration and sources
-
-The main inspiration and sources came from @eglix video on YT https://www.youtube.com/watch?v=OD7MRSHHSPQ or https://www.youtube.com/watch?v=OD7MRSHHSPQ and some of his 3D models of tooth wheels and holders: https://github.com/eglix/Projeler/tree/master/DIY_SIM_Wheel
 
 # Software
 
@@ -39,7 +35,7 @@ Click on the photo for a short video!
 
 [![Inside Video](media/videostill2.jpg)](https://youtu.be/oHTkMrLjo54)
 
-The gears and the gear are from @eglix https://github.com/eglix/Projeler/tree/master/DIY_SIM_Wheel
+The gears and the gear are from [@eglix](https://github.com/eglix)s repo: https://github.com/eglix/Projeler/tree/master/DIY_SIM_Wheel
 
 ![Photo Inside](https://github.com/leanderseige/steeringwheelarduino/blob/main/media/inside1.jpg)
 
