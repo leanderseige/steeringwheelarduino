@@ -2,9 +2,9 @@
 
 I have been asked for a PC steering wheel and I decided to not just buy one but to build our own steering wheel ourselves.
 
-Following some excellent sources on the internet it was not too hard to build our own simple steering wheel. The most important source were [@eglix](https://github.com/eglix)s videos on YT https://www.youtube.com/watch?v=OD7MRSHHSPQ and https://www.youtube.com/watch?v=OD7MRSHHSPQ and his 3D models of gears and the holder: https://github.com/eglix/Projeler/tree/master/DIY_SIM_Wheel
+Following some excellent sources on the internet it was not too hard to build our own simple steering wheel. The most important sources were [@eglix](https://github.com/eglix)s videos on YT https://www.youtube.com/watch?v=OD7MRSHHSPQ and https://youtu.be/cj_OGSozPsY as well as his 3D models of gears and the holder: https://github.com/eglix/Projeler/tree/master/DIY_SIM_Wheel
 
-![wheel video 1](https://github.com/leanderseige/steeringwheelarduino/blob/main/media/photo.jpg)
+![wheel photo 1](https://github.com/leanderseige/steeringwheelarduino/blob/main/media/photo.jpg)
 
 # How does it peform?
 
@@ -16,7 +16,7 @@ Check out this very short video:
 
 As I saw how easy it is to program an Arduino Leonardo I chose to not use the existing binary tools flying around on the internet but to write my own software. One needs just a couple of lines to get everything working.
 
-Just set up Arduino IDE and install the following two libraries:
+Just set up the Arduino IDE and install the following two libraries:
 * ArduinoJoystickLibrary (I installed it from the latest ZIP, https://github.com/MHeironimus/ArduinoJoystickLibrary/wiki)
 * optional: TM1637 Driver (I installed it from within the IDE's library management, https://github.com/AKJ7/TM1637)
 
