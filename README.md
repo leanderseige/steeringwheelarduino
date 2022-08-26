@@ -81,4 +81,6 @@ Wiring is very easy. However, I do not guarantee the correctness of anything. Re
 
 * Optional LED display, TM1637 compatible: https://www.amazon.de/gp/product/B078S7Q6X7
 
+We did not include the LED displays in the final product but here is how it looked like:
+
 ![LED displays](https://github.com/leanderseige/steeringwheelarduino/blob/main/media/test_wiring_with_LEDs.jpg)
