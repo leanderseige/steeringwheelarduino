@@ -41,7 +41,7 @@ Click on the photo for a short video!
 
 [![Inside Video](media/videostill2.jpg)](https://youtu.be/oHTkMrLjo54)
 
-The gears and the gear are from [@eglix](https://github.com/eglix)s repo: https://github.com/eglix/Projeler/tree/master/DIY_SIM_Wheel
+The gears and the holder are from [@eglix](https://github.com/eglix)s repo: https://github.com/eglix/Projeler/tree/master/DIY_SIM_Wheel
 
 ![Photo Inside](https://github.com/leanderseige/steeringwheelarduino/blob/main/media/inside1.jpg)
 
