@@ -43,6 +43,8 @@ Click on the photo for a short video!
 
 The gears and the holder are from [@eglix](https://github.com/eglix)s repo: https://github.com/eglix/Projeler/tree/master/DIY_SIM_Wheel
 
+Our first holder broke. Therefore we recommend a rather high level of infill. We also increased the thickness of the walls so that the small parts become completely solid.
+
 ![Photo Inside](https://github.com/leanderseige/steeringwheelarduino/blob/main/media/inside1.jpg)
 
 ## Steering wheel
