@@ -63,7 +63,7 @@ Threaded 8mm rod, washers and nuts as well as coated plywood came from a local h
 
 ## Rubber band
 
-In order the pull the wheel back towards the center I invented a simple mechanism using a rubber band. The file for 3D-printing is called Rubber_Band_Mounts.stl I already had rubber band at hand from an earlier project. But here is the source anyway: https://www.amazon.de/gp/product/B089NJJZJL
+In order the pull the wheel back towards the center I invented a simple mechanism using a rubber band. The file for 3D-printing is called Rubber_Band_Mounts.stl I already had rubber band at hand from an earlier project. But here is the source anyway: https://amzn.to/3BG0hRd
 
 ![Rubber Band Construction](https://github.com/leanderseige/steeringwheelarduino/blob/main/media/rubber_band_construction.jpg)
 
@@ -77,9 +77,9 @@ Wiring is very easy. However, I do not guarantee the correctness of anything. Re
 
 * Resistor and potentiometer (B100K) were already available.
 
-* Arcade button: https://www.amazon.de/gp/product/B01MRWL6DW
+* Arcade button: https://amzn.to/3hwFdGj
 
-* Optional LED display, TM1637 compatible: https://www.amazon.de/gp/product/B078S7Q6X7
+* Optional LED display, TM1637 compatible: https://amzn.to/3W9B1er
 
 We did not include the LED displays in the final product but here is how it looked like:
 
